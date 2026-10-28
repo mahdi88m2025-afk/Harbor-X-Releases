@@ -90,7 +90,9 @@ An existing Harbor X installation uses its recorded installation folder for an i
 
 ## Updates
 
-**Stable** is the production channel for this release. Use **Check for Updates** in the app; an equal or older version is not offered for reinstallation. A newer accepted update must pass its signature check, and you choose when to install it.
+**Stable** is the production update channel for Harbor X. Its [channel manifest](https://github.com/mahdi88m2025-afk/Harbor-X-Releases/releases/download/updates-stable/latest.json) identifies the current signed Windows release; it is separate from the versioned installer and source downloads.
+
+Use **Check for Updates** in the app. An equal or older version is not offered for reinstallation. A newer accepted update must pass its signature check, and you choose when to install it. If a check is temporarily unavailable, keep using your current installation and try again later.
 
 A Beta selector exists, but a production Beta release is not being advertised with this first Stable release. Test-only lab builds use different trust keys and are not silently converted into production installations. The live production update cycle is not claimed as tested before it has actually been exercised.
 
