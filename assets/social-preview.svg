@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640"><rect width="1280" height="640" fill="#061425"/><svg y="110" width="1280" height="420" viewBox="0 0 1280 420"><defs><linearGradient id="bg"><stop stop-color="#061425"/><stop offset="1" stop-color="#030711"/></linearGradient></defs><rect width="1280" height="420" rx="28" fill="url(#bg)"/><path d="M500 60L1190 355M480 360L1150 80" stroke="#1b6df4" stroke-opacity=".12" stroke-width="2"/><circle cx="1110" cy="213" r="146" stroke="#279eff" stroke-opacity=".12" fill="none"/><circle cx="1110" cy="213" r="186" stroke="#279eff" stroke-opacity=".08" fill="none"/><svg x="74" y="88" width="244" height="244" viewBox="0 0 512 512">
+  <title>Harbor X — anchor and X</title>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#030711"/></linearGradient>
+    <linearGradient id="electric" x1="120" y1="100" x2="388" y2="422" gradientUnits="userSpaceOnUse"><stop stop-color="#79e6ff"/><stop offset=".48" stop-color="#279eff"/><stop offset="1" stop-color="#2853f5"/></linearGradient>
+  </defs>
+  <rect x="12" y="12" width="488" height="488" rx="108" fill="url(#base)"/>
+  <rect x="12.75" y="12.75" width="486.5" height="486.5" rx="107.25" fill="none" stroke="#8ccaff" stroke-opacity=".14" stroke-width="1.5"/>
+  <g fill="none" stroke="url(#electric)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="256" cy="126" r="28" />
+      <path d="M256 154V418 M154 218L358 390 M358 218L154 390 M128 310C138 370 185 410 256 422C327 410 374 370 384 310 M128 310L120 354 M128 310L170 330 M384 310L392 354 M384 310L342 330" />
+  </g>
+</svg><g font-family="Segoe UI,Arial,sans-serif"><text x="365" y="184" font-size="76" font-weight="700" fill="#f3f8ff">Harbor X</text><text x="369" y="237" font-size="27" fill="#a8c3df">A modern desktop media experience</text><text x="370" y="290" font-size="19" letter-spacing="3" fill="#65ccff">WINDOWS x64 · MAINTAINED BY SPLASH</text></g></svg></svg>
